@@ -1,3 +1,3 @@
 ## pHash
 
-pHash(perceptual hash) implementation for python
+pHash(perceptual hash) implementation in python
